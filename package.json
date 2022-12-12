@@ -9,6 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "deepcopy": "^2.1.0",
+    "element-plus": "^2.2.21",
+    "mitt": "^3.0.0",
+    "sass": "^1.56.1",
+    "sass-loader": "^13.2.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
